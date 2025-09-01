@@ -1,4 +1,3 @@
-```markdown
 # Internet Archive WPI Helper — Starter (Tkinter)
 
 Description
